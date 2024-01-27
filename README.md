@@ -17,3 +17,5 @@ Data jsou v prvním listu ve sloupci B.
 Validní data jsou pouze kladná cela čísla, nevalidní data by měl program ignorovat.
 Malý VZOREK dat je přílohou zadaní, jedna se opravdu o vzorek, finalni data mohou byt jina!
 Může jich být více a větší, s vlivem na cekový výkon výpočtu.
+
+Data: vzorek_dat.xlsx
