@@ -1,3 +1,9 @@
+Chyby:
+-načtení celého souboru do listu a teprve poté zpracování -> zpracovávat okamžitě, číst řádek po řádku, vybraná data rovnou vypisovat, případně pro další práci nejdříve např. do listu uložit (odstraní riziko zhroucení aplikace pro nedostatek paměti a je v souladu s best practices)
+-jedna třída jako "stack" pro metody -> rozvrstvit aplikaci a metody logicky roztřídit do tříd
+-testování -> zdokonalit testy (zde jsem s nimi pracoval poprvé v životě a učil se testovat za běhu, v průběhu víkendu)
+
+
 # TenderForJavaJuniorSDC
 
 Zadaní:
